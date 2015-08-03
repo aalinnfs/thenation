@@ -169,10 +169,11 @@ background: #c42e3b;
 #user-lists .list.room .user .icon-grab {
     right: 35px !important;
 }
+/*
 [data-cid^="6450433-"] span.un.clickable {
     color: #FFFFFF!important;
-}
-[data-cid^=""]   .badge-box .bdg { 
+}*/
+[data-cid^="5596573-"]   .badge-box .bdg { 
     background-image: url("http://i.imgur.com/LNlRZ9L.jpg") !important;
     background-position: 0px 0px;
 }
