@@ -1,0 +1,6 @@
+[data-cid^="6450433-"] span.un.clickable {
+    color: #FFFFFF!important;
+}
+[data-cid^="6450433-"] .msg .from .icon-chat-manager {
+    background: url("https://cloud.githubusercontent.com/assets/8460503/9035556/b7b00d88-39e1-11e5-9e37-634c73d12a2d.png")!important;
+}
