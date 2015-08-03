@@ -19,9 +19,9 @@
         "manager": "#6df2ea",
         "bouncer": "#6df2ea",
         "rdj": "#6df2ea",
-        "subscriber": "#cccccc",
-        "friend": "#cccccc",
-        "user": "#cccccc"
+        "subscriber": "#7e7e7e",
+        "friend": "#7e7e7e",
+        "user": "#7e7e7e"
     },
     "images": {
         "admin": "https://cloud.githubusercontent.com/assets/8460503/9028854/3e42e85a-398f-11e5-96f8-64d16e775cb1.png",
