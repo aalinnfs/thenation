@@ -1,6 +1,6 @@
 {
     "room":                     "The Nation",
-    "css":                      "https://rawgit.com/aalinnfs/thenation/master/style.css",
+    "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
