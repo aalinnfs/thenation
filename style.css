@@ -4,6 +4,10 @@
 #footer {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
+.icon-site-logo { 
+    background: url('https://chilloutmusic.fm/img/theme/CM.png') repeat scroll 0% 0% transparent;
+    background-position: 0px 0px; 
+} 
 #playlist-button,
 #app-header {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
