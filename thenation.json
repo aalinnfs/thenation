@@ -1,0 +1,13 @@
+{
+    "room":                     "The Nation",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     false,
+        "forceSmartVote":       false
+    },
+}
