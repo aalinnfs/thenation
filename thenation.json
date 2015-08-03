@@ -1,5 +1,6 @@
 {
     "room":                     "The Nation",
+    "css":                      https://rawgit.com/aalinnfs/thenation/master/assets/style.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
