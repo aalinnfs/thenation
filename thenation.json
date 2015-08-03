@@ -11,6 +11,18 @@
         "allowShowingMehs":     false,
         "forceSmartVote":       false
     },
+        "ccc": {
+        "admin": "#6df2ea",
+        "ambassador": "#6df2ea",
+        "host": "#6df2ea",
+        "cohost": "#6df2ea",
+        "manager": "#6df2ea",
+        "bouncer": "#6df2ea",
+        "rdj": "#6df2ea",
+        "subscriber": "#cccccc",
+        "friend": "#cccccc",
+        "user": "#cccccc"
+    },
     "images": {
         "admin": "https://cloud.githubusercontent.com/assets/8460503/9028854/3e42e85a-398f-11e5-96f8-64d16e775cb1.png",
         "ambassador": "https://cloud.githubusercontent.com/assets/8460503/9028861/64b6bf34-398f-11e5-96e5-1a87b7daccb3.png",
