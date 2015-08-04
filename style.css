@@ -178,17 +178,17 @@ background: #c42e3b;
     color: #FFFFFF!important;
 }*/
 
-//qSukky
+/*qSukky*/
 [data-cid^="4856169-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9073794/a517588a-3b0c-11e5-9e5e-74e0aeb3786a.jpg") !important;
     background-position: 0px 0px;
 }
-//KGTHREAT
+/*KGTHREAT*/
 [data-cid^="5596573-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9046310/676f0698-3a32-11e5-9c6d-67ca327eda53.png") !important;
     background-position: 0px 0px;
 }
-//Bot
+/*Bot*/
 [data-cid^="6450433-"] .msg .from .icon-chat-manager {
     background: url("https://cloud.githubusercontent.com/assets/8460503/9035556/b7b00d88-39e1-11e5-9e37-634c73d12a2d.png")!important;
 }
