@@ -178,7 +178,7 @@ background: #c42e3b;
     color: #FFFFFF!important;
 }*/
 /*Holo Man*/
-[data-cid^="9150952-"]   .badge-box .bdg {
+[data-cid^="9150952-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9075103/5004bc5e-3b19-11e5-91ae-0b8b0933b981.jpg") !important;
     background-position: 0px 0px;
 }
