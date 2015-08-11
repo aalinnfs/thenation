@@ -209,3 +209,8 @@ background: #c42e3b;
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9075971/d0755910-3b24-11e5-98b3-bdce906da523.jpg") !important;
     background-position: 0px 0px;
 }
+/* Lord Gif/Skiletro */
+[data-cid^="4052314-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/8460503/9206154/d6fb7694-406e-11e5-8126-e0834b1cfccc.jpg") !important;
+    background-position: 0px 0px;
+}
