@@ -70,6 +70,10 @@
 #chat .emote .from {
      color: #ac76ff !important;
 }
+#footer-user .info .bar .progress
+{
+     color: rgba(50, 200, 180, 0.9);
+}
 #chat .emote {
     border-left: rgba(174, 69, 189, 1) 3px solid !important;
     background-color: rgba(76, 93, 119, 0.22) !important;
