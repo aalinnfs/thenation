@@ -26,6 +26,7 @@
     "images": {
         "admin": "https://cloud.githubusercontent.com/assets/8460503/9028854/3e42e85a-398f-11e5-96f8-64d16e775cb1.png",
         "playback": null,
+        "background": "https://cloud.githubusercontent.com/assets/19695272/15872845/3396572a-2d04-11e6-85dd-1922c17aeb44.jpg",
         "ambassador": "https://cloud.githubusercontent.com/assets/8460503/9028861/64b6bf34-398f-11e5-96e5-1a87b7daccb3.png",
         "host": "https://cloud.githubusercontent.com/assets/8460503/9028865/7eb43ad8-398f-11e5-851d-8cf717c67ed1.png",
         "cohost": "https://cloud.githubusercontent.com/assets/8460503/9028865/7eb43ad8-398f-11e5-851d-8cf717c67ed1.png",
