@@ -193,16 +193,16 @@ background: #c42e3b;
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9075103/5004bc5e-3b19-11e5-91ae-0b8b0933b981.jpg") !important;
     background-position: 0px 0px;
 }
-/*Suky*/
+/*Suky
 [data-cid^="4856169-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/16247132/087daa12-3811-11e6-8504-6a65536db08a.gif") !important;
     background-position: 0px 0px;
-}
-/*Suky not animated
+}*/
+/*Suky*/
 [data-cid^="4856169-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9073794/a517588a-3b0c-11e5-9e5e-74e0aeb3786a.jpg") !important;
     background-position: 0px 0px;
-}*/
+}
 /*
 [data-cid^="4856169-"] span.un.clickable {
     color: #dd4f4f!important;
