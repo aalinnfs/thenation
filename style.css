@@ -207,6 +207,11 @@ background: #c42e3b;
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9046310/676f0698-3a32-11e5-9c6d-67ca327eda53.png") !important;
     background-position: 0px 0px;
 }
+/*Skiletro*/
+[data-cid^="4052314-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/8460503/9206154/d6fb7694-406e-11e5-8126-e0834b1cfccc.jpg") !important;
+    background-position: 0px 0px;
+}
 /*Bot*/
 [data-cid^="6450433-"] .msg .from .icon-chat-manager {
     background: url("https://cloud.githubusercontent.com/assets/8460503/9035556/b7b00d88-39e1-11e5-9e37-634c73d12a2d.png")!important;
