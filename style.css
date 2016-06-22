@@ -1,6 +1,11 @@
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
+/* me chat effect [By: Wolf] */
+#chat-messages .cm.emote.id-[6450433]{
+    text-shadow: 0 0 10px #0000FF;
+    color: #00FFFF;
+}
 /*
 body {
     font-family: "Sans-serif",sans-serif;
