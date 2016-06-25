@@ -7,6 +7,9 @@
     text-shadow: 0 0 10px #0000FF;
     color: #00FFFF;
 }
+#chat .emote .from.id-6450433 {
+     color: #ac76ff !important;
+}
 #chat-messages .id-6450433 
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
@@ -21,9 +24,6 @@
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(34, 23, 54, 0.33) !important;
         border-left: 3px solid #8230FF;
-}
-#chat-messages .id-6450433 .icon {
-    display: none;
 }
 /*
 body {
@@ -98,17 +98,19 @@ body {
     /*padding-left: 25px;*/
     border-left: #7681FF 3px solid;
 }
+/*
 #chat .emote .from {
      color: #ac76ff !important;
-}
+}*/
 #footer-user .info .bar .progress
 {
      color: rgba(50, 200, 180, 0.9);
 }
+/*
 #chat .emote {
     border-left: rgba(55, 157, 225, 1) 3px solid !important;
     background-color: rgba(55, 157, 225, 0.22) !important;
-}
+}*/
 #chat-messages .emote .icon {
     /*left: 4px;*/
 }
