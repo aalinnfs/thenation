@@ -8,18 +8,19 @@
     color: #00FFFF;
 }
 #chat .emote .from.id-6450433 {
-     color: #ac76ff !important;
+     color: #00FFFF !important;
 }
 #chat-messages .id-6450433 
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
-        background: rgba(34, 23, 54, 0.33) !important;
+        background: rgba(59, 153, 246, 0.8) !important;
         border-left: 3px solid #8230FF;
 }
+/*
 [data-cid^="6450433"] .msg .from .un 
 {
         color: #ac76ff !important;
-}
+}*/
 #chat .moderation {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(34, 23, 54, 0.33) !important;
