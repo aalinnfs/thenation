@@ -292,6 +292,12 @@ background: #c42e3b;
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/16247326/ece717a6-3811-11e6-8441-b529829d30f6.gif") !important;
     background-position: 0px 0px;
 }
+/*Trap Nation*/
+[data-cid^="id here-"]   .badge-box .bdg { 
+    background-image: url("https://cloud.githubusercontent.com/assets/8460503/16359566/deb5e67e-3b42-11e6-84c8-13357cacf547.jpg") !important;
+    background-position: 0px 0px;
+}
+
 /*Suky
 [data-cid^="4856169-"]   .badge-box .bdg { 
     background-image: url("https://cloud.githubusercontent.com/assets/8460503/9073794/a517588a-3b0c-11e5-9e5e-74e0aeb3786a.jpg") !important;
